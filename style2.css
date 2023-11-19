@@ -123,13 +123,16 @@ button:hover {
     font-size: 13px;
   }
   .main h2 {
-    font-size: 28px;
+    font-size: 18px;
+    color: hotpink;
   }
   .main p {
     font-size: 15px;
   }
   button {
-    font-size: 13px;
+    width: 30%;
+    height: 40px;
+    font-size: 8px;
   }
   .image-wrapper img {
     max-width: 400px;
