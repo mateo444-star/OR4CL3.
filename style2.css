@@ -131,7 +131,7 @@ button:hover {
   }
   button {
     /* box-shadow: red 1px 1px;*/
-    max-width: 100%;
+    max-width: 90%;
     width: 75px;
     height: 40px;
     font-size: 8px;
