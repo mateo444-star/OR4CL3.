@@ -130,11 +130,21 @@ button:hover {
     font-size: 15px;
   }
   button {
-    width: 30%;
+    /* box-shadow: red 1px 1px;*/
+    max-width: 100%;
+    width: 75px;
     height: 40px;
     font-size: 8px;
   }
+  .main .attrebute {
+    text-align: center;
+    font-size: 10px;
+    margin-right: -85px;
+  }
   .image-wrapper img {
     max-width: 400px;
+  }
+  .glass-container {
+    margin-top: 10px;
   }
 }
